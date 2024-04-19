@@ -1,4 +1,4 @@
-let numero_1 = 3;
-var numero_2 = 8;
-
-console.log ("La suma entre 3 y 8 es " + (numero_1 + numero_2));
+let numero_1 = prompt("Ingrese un número");
+var numero_2 = prompt("Ingrese otro numero");
+var suma = parseInt(numero_1) + parseInt(numero_2);
+console.log (" La suma entre " + numero_1 + " y " + numero_2 + " es " + (suma));
