@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "scala",
+            "request": "attach",
+            "name": "Depuracion de mi proyecto",
+            "buildTarget": "ejercicio1",
+            "hostName": "localhost",
+            "port": 5005
+        },
+        {
+            "type": "scala",
+            "request": "launch",
+            "name": "Debug Scala File",
+            "mainClass": "ejercicio1",
+            "args": [],
+            "jvmOptions": [],
+            "env": {}
+        }
+    ]
+}
