@@ -615,3 +615,5 @@ may. 14, 2024 11:14:42 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint 
 INFORMACIÓN: Unsupported notification method: $/setTrace
 may. 14, 2024 11:17:23 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMACIÓN: Unsupported notification method: $/setTrace
+may. 14, 2024 11:36:28 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
