@@ -4,6 +4,14 @@
         {
             "type": "scala",
             "request": "attach",
+            "name": "Untitled",
+            "buildTarget": "ejercicio1",
+            "hostName": "localhost",
+            "port": 5005
+        },
+        {
+            "type": "scala",
+            "request": "attach",
             "name": "Depuracion de mi proyecto",
             "buildTarget": "ejercicio1",
             "hostName": "localhost",
