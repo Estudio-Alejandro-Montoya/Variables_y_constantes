@@ -1,30 +1,30 @@
 {
-    "version": "0.2.0",
     "configurations": [
         {
             "type": "scala",
-            "request": "attach",
+            "request": "launch",
             "name": "Untitled",
-            "buildTarget": "ejercicio1",
-            "hostName": "localhost",
-            "port": 5005
-        },
-        {
-            "type": "scala",
-            "request": "attach",
-            "name": "Depuracion de mi proyecto",
-            "buildTarget": "ejercicio1",
-            "hostName": "localhost",
-            "port": 5005
+            "mainClass": "Ejercicio1",
+            "args": [],
+            "jvmOptions": [],
+            "env": {}
         },
         {
             "type": "scala",
             "request": "launch",
-            "name": "Debug Scala File",
-            "mainClass": "ejercicio1",
+            "name": "Play main",
+            "mainClass": "play.core.server.ProdServerStart",
             "args": [],
             "jvmOptions": [],
-            "env": {}
-        }
+            "buildTarget": "Ejercicio1"
+        },
+    {
+        "type": "scala",
+        "request": "attach",
+        "name": "Untitled",
+        "buildTarget": "Ejercicio1",
+        "hostName": "localhost",
+        "port": 5005
+    }
     ]
 }

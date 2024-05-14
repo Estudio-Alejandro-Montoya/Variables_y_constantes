@@ -604,3 +604,14 @@ SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5ca97506]
 2024.05.14 11:04:58 WARN  Build server is not auto-connectable.
 2024.05.14 11:04:59 INFO  compiling variables_y_constantes_f4dd477a3a (2 scala sources)
 2024.05.14 11:04:59 INFO  time: compiled Variables_y_constantes_f4dd477a3a in 0.56s
+2024.05.14 11:08:37 INFO  Cancelling compilation on scala-cli server
+2024.05.14 11:08:37 INFO  compiling variables_y_constantes_f4dd477a3a (1 scala source)
+2024.05.14 11:08:39 WARN  Invalid text document uri received from build server: file:///C:/Users/alejandro.montoya/Variables_y_constantes/Posición.scala
+2024.05.14 11:08:39 INFO  time: compiled Variables_y_constantes_f4dd477a3a in 2.9s
+2024.05.14 11:08:48 INFO  time: indexed workspace in 8.54s
+may. 14, 2024 11:14:01 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+may. 14, 2024 11:14:42 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+may. 14, 2024 11:17:23 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
