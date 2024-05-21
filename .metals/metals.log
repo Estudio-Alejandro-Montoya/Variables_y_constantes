@@ -768,3 +768,38 @@ java.util.concurrent.TimeoutException
 2024.05.21 08:08:59 WARN  no build tool detected in workspace 'C:\Users\Alejandro Montoya\workspace\Variables_y_constantes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2024.05.21 08:08:59 WARN  Build server is not auto-connectable.
 2024.05.21 08:08:59 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:11:52 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:21 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:21 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:24 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:24 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:24 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:25 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:29 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:32 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:16:32 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:01 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:01 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:01 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:01 WARN  Could not find semantic tokens for: file:///C:/Users/Alejandro%20Montoya/workspace/Variables_y_constantes/Ejercicio1.1.scala
+2024.05.21 08:19:14 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:14 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:16 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:16 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:16 WARN  Could not find semantic tokens for: file:///C:/Users/Alejandro%20Montoya/workspace/Variables_y_constantes/Ejercicio1.1.scala
+2024.05.21 08:19:46 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:49 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:19:52 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:33:17 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:33:17 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:33:17 WARN  Could not find semantic tokens for: file:///C:/Users/Alejandro%20Montoya/workspace/Variables_y_constantes/Ejercicio1.1.scala
+2024.05.21 08:41:26 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\ejercicio1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:42:08 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:42:08 WARN  Could not find semantic tokens for: file:///C:/Users/Alejandro%20Montoya/workspace/Variables_y_constantes/Ejercicio1.1.scala
+2024.05.21 08:42:09 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:42:09 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 08:42:11 WARN  no build target for: C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala
+2024.05.21 08:42:12 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 09:04:09 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 09:04:09 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.05.21 09:04:57 INFO  no build target found for C:\Users\Alejandro Montoya\workspace\Variables_y_constantes\Ejercicio1.1.scala. Using presentation compiler with project's scala-library version: 3.3.3
